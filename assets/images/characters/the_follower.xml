@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the_follower.png">
+	<!-- Created by OneilR, funky XML wizard -->
+
+	<SubTexture name="idle00000" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="idle00001" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="idle00002" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="idle00003" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="idle00004" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="idle00005" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="idle00006" x="2000" y="0" width="500" height="500"/>
+	<SubTexture name="idle00007" x="2000" y="0" width="500" height="500"/>
+	<SubTexture name="idle00008" x="0" y="500" width="500" height="500"/>
+	<SubTexture name="idle00009" x="0" y="500" width="500" height="500"/>
+	<SubTexture name="idle00010" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="idle00011" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="idle00012" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="idle00013" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="idle00014" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="idle00015" x="500" y="500" width="500" height="500"/>	
+	<SubTexture name="idle00016" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="idle00017" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="idle00018" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="idle00019" x="500" y="500" width="500" height="500"/>
+
+	<SubTexture name="down00000" x="0" y="1000" width="500" height="500"/>
+	<SubTexture name="down00001" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="down00002" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="down00003" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="down00004" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="down00005" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="down00006" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="down00007" x="500" y="1000" width="500" height="500"/>	
+	<SubTexture name="down00008" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="down00009" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="down00010" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="down00011" x="500" y="1000" width="500" height="500"/>
+
+	<SubTexture name="up00000" x="0" y="1500" width="500" height="500"/>
+	<SubTexture name="up00001" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="up00002" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="up00003" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="up00004" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="up00005" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="up00006" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="up00007" x="500" y="1500" width="500" height="500"/>	
+	<SubTexture name="up00008" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="up00009" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="up00010" x="500" y="1500" width="500" height="500"/>
+	<SubTexture name="up00011" x="500" y="1500" width="500" height="500"/>
+
+	<SubTexture name="left00000" x="0" y="2000" width="500" height="500"/>
+	<SubTexture name="left00001" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="left00002" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="left00003" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="left00004" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="left00005" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="left00006" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="left00007" x="500" y="2000" width="500" height="500"/>	
+	<SubTexture name="left00008" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="left00009" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="left00010" x="500" y="2000" width="500" height="500"/>
+	<SubTexture name="left00011" x="500" y="2000" width="500" height="500"/>
+
+	<SubTexture name="right00000" x="0" y="2500" width="500" height="500"/>
+	<SubTexture name="right00001" x="500" y="2500" width="500" height="500"/>
+	<SubTexture name="right00002" x="500" y="2500" width="500" height="500"/>
+	<SubTexture name="right00003" x="500" y="2500" width="500" height="500"/>
+	<SubTexture name="right00004" x="500" y="2500" width="500" height="500"/>
+	<SubTexture name="right00005" x="500" y="2500" width="500" height="500"/>
+	<SubTexture name="right00006" x="500" y="2500" width="500" height="500"/>
+	<SubTexture name="right00007" x="500" y="2500" width="500" height="500"/>	
+	<SubTexture name="right00008" x="500" y="2500" width="500" height="500"/>
+	<SubTexture name="right00009" x="500" y="2500" width="500" height="500"/>
+	<SubTexture name="right00010" x="500" y="2500" width="500" height="500"/>
+	<SubTexture name="right00011" x="500" y="2500" width="500" height="500"/>
+
+</TextureAtlas>

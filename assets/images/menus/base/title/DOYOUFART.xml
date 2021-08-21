@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jump.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jump0000" x="0" y="0" width="600" height="600"/>
+	<SubTexture name="Jump0001" x="600" y="0" width="600" height="600"/>
+	<SubTexture name="Jump0002" x="1200" y="0" width="600" height="600"/>
+	<SubTexture name="Jump0003" x="1200" y="0" width="600" height="600"/>
+	<SubTexture name="Jump0004" x="0" y="600" width="600" height="600"/>
+	<SubTexture name="Jump0005" x="0" y="600" width="600" height="600"/>
+	<SubTexture name="Jump0006" x="600" y="600" width="600" height="600"/>
+	<SubTexture name="Jump0007" x="600" y="600" width="600" height="600"/>
+	<SubTexture name="Jump0008" x="1200" y="600" width="600" height="600"/>
+	<SubTexture name="Jump0009" x="1200" y="600" width="600" height="600"/>
+	<SubTexture name="Jump0010" x="1200" y="600" width="600" height="600"/>
+	<SubTexture name="Jump0011" x="1200" y="600" width="600" height="600"/>
+	<SubTexture name="Jump0012" x="1200" y="600" width="600" height="600"/>
+	<SubTexture name="Jump0013" x="1200" y="600" width="600" height="600"/>
+</TextureAtlas>
