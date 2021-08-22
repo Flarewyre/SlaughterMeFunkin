@@ -54,7 +54,7 @@ class OptionsMenuState extends MusicBeatState
 			afterwards just do something along the lines of a check like
 			"if (Init.gameSettings.get(your option in a string here)[0])"
 		 */
-		var preferenceOptions:Array<String> = ['Downscroll', 'FPS Counter', 'Memory Counter', 'Debug Info', 'Display Accuracy'];
+		var preferenceOptions:Array<String> = ['Downscroll', 'FPS Counter', 'Memory Counter', 'Debug Info', 'Display Accuracy', 'Flickering Background'];
 
 		preferenceGroup = generateGroup(preferenceOptions, true);
 		preferenceCheckmarks = generateCheckmarks(preferenceOptions);

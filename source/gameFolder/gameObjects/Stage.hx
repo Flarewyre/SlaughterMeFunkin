@@ -357,11 +357,11 @@ class Stage extends FlxTypedGroup<FlxBasic>
 
 				var bg:FlxSprite = new FlxSprite(-640, -360);
 				bg.frames = Paths.getSparrowAtlas('backgrounds/' + curStage + '/red');
-				bg.animation.addByPrefix('idle', 'red0', 24);
+				bg.animation.addByPrefix('idle', 'red0', 48);
 				bg.animation.play('idle');
 				bg.antialiasing = true;
 				bg.scrollFactor.set(1, 1);
-				bg.active = false;
+				bg.active = Init.gameSettings.get('Flickering Background')[0];
 				add(bg);
 
 				var flashlight:FlxSprite = new FlxSprite(-640, -360).loadGraphic(Paths.image('backgrounds/' + curStage + '/flashlight'));
