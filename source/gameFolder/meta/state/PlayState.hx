@@ -1711,7 +1711,7 @@ class PlayState extends MusicBeatState
 				transOut = FlxTransitionableState.defaultTransOut;
 
 				// change to the menu state
-				Main.switchState(new StoryMenuState());
+				Main.switchState(new MainMenuState());
 
 				// save the week's score if the score is valid
 				if (SONG.validScore)
